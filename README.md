@@ -1,3 +1,7 @@
+1} https://www.figma.com/design/XP7ceGkJozGvMw7x1XobfR/Fashion-E-commerce-Website--Community-?node-id=0-1&p=f&t=cMdxdVQkL8Sne9Re-0
+
+2} https://www.figma.com/design/M7IX98XGhSZXeEZerukWzL/Full-E-Commerce-Website-UI-UX-Design--Community-?node-id=1-3&p=f&t=iLC089sL0rdd5YDw-0
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
